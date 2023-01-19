@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "363396168720",
+    "project_id": "fir-test-ecdec",
+    "storage_bucket": "fir-test-ecdec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363396168720:android:915fc69b7abe6c4801de95",
+        "android_client_info": {
+          "package_name": "com.example.fcm_notifications_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363396168720-dq7a6plc17oiutbvi9i2gbsbfjko7h53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUJMqNsNw5GLX0tHDwpqtasf_XIKxyoHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363396168720-dq7a6plc17oiutbvi9i2gbsbfjko7h53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "363396168720-90gj3tpr8b66asgtv98ipljudanrh6j5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcmNotificationsTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
