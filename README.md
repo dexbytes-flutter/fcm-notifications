@@ -1,6 +1,6 @@
-# fcm_notifications_test
+# flutter_firebase_test
 
-Firebase notification test
+A new Flutter project.
 
 ## Getting Started
 
